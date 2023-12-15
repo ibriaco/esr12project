@@ -1,0 +1,9 @@
+# Created by Metasequoia
+
+newmtl mat4
+Ka 1.00000 1.00000 1.00000
+Kd 1.00000 1.00000 1.00000
+Ks 0.58700 0.58700 0.58700
+Ns 0.00000
+map_Kd ws000892.bmp
+

@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 2210278bc6ccd4fab92f64d634c7d5d0
+  - enabled: 1
+    path: Assets/Scenes/TypeOfAR.unity
+    guid: 0ae8aa318cbd44518ad4db476b1911d1
+  - enabled: 1
+    path: Assets/Scenes/AnimalsClassification.unity
+    guid: 6bdce89659816455b9f906fc62d19910
+  - enabled: 1
+    path: Assets/Scenes/BearLearning.unity
+    guid: 3ca49dbcf2dc84669a4f3c1618d2926b
+  - enabled: 1
+    path: Assets/Scenes/CamelLearning.unity
+    guid: f537ba9759e2b487b8f8ac1cb7ff93b0
+  - enabled: 1
+    path: Assets/Scenes/PenguinLearning.unity
+    guid: ff9fb81ef63a440c5b6a7667f5c6796f
+  - enabled: 1
+    path: Assets/Scenes/RhinoLearning.unity
+    guid: 8dbf46a3dd9e5486498efb729247fd84
+  - enabled: 1
+    path: Assets/Scenes/TigerLearning.unity
+    guid: 05af0b3c1845e48f9943b997c21ad0a8
+  - enabled: 1
+    path: Assets/Scenes/ZebraLearning.unity
+    guid: 2292e932446ef48909b041b9060237f3
+  - enabled: 1
+    path: Assets/Scenes/AnimalsMenu.unity
+    guid: b82452becfc2a42048e48fc7b82bf5af
+  - enabled: 1
+    path: Assets/Scenes/AppleLearning.unity
+    guid: 2ab075478cc8a4060becce81009e8ceb
+  - enabled: 1
+    path: Assets/Scenes/BananaLearning.unity
+    guid: 54bf0a46c50244c54be4cd8c861d559b
+  - enabled: 1
+    path: Assets/Scenes/GrapesLearning.unity
+    guid: e79bc99699b3d4cdbb5bbd11e9d07dc8
+  - enabled: 1
+    path: Assets/Scenes/OrangeLearning.unity
+    guid: 3ef1ca5138cc647e1b25cd95399a3045
+  - enabled: 1
+    path: Assets/Scenes/PearLearning.unity
+    guid: c03ca98d4a06440afb10ef6b56ab7b7a
+  - enabled: 1
+    path: Assets/Scenes/PineappleLearning.unity
+    guid: 9446660d0484b4e29bab2b8882a56393
+  - enabled: 1
+    path: Assets/Scenes/FoodMenu.unity
+    guid: ae2543d3706354784a46f10cd99d357f
+  - enabled: 1
+    path: Assets/Scenes/Categories.unity
+    guid: ba9f454570cbc465db84635170ada206
+  - enabled: 1
+    path: Assets/Scenes/ConfettiAnimation.unity
+    guid: d77610b12bf864d309f2b24170a259d0
+  - enabled: 1
+    path: Assets/Scenes/LearnOrPractice.unity
+    guid: 020525da06e5b43218e0e03cf9ce9481
+  - enabled: 1
+    path: Assets/Scenes/ImageTracking.unity
+    guid: 7c9bdef12052f4d1cb5097d1c4d01f8a
+  - enabled: 1
+    path: Assets/Scenes/PlanetsMenu.unity
+    guid: 99d09b7171c6849cf97c2ac09eabe711
+  - enabled: 1
+    path: Assets/Scenes/VehiclesMenu.unity
+    guid: 1abff4ca27f9e4bfd8b4b2f500c4f40b
+  - enabled: 1
+    path: Assets/Scenes/FruitsClassification.unity
+    guid: 0d65187e823b940798a7ca922ad3a7d5
+  - enabled: 1
+    path: Assets/Scenes/CategoriesPractice.unity
+    guid: 7ebe78b8b40d74be6a51d15a2e429fe4
+  - enabled: 1
+    path: Assets/Scenes/SaturnLearning.unity
+    guid: 5728af7d380254bf281f91d69b7fae6a
+  - enabled: 1
+    path: Assets/Scenes/MarsLearning.unity
+    guid: 6364c82be6a2e4dd98b0fdabc64514be
+  - enabled: 1
+    path: Assets/Scenes/MercuryLearning.unity
+    guid: 4b8e7cde097cc4c599d03c452da1a001
+  - enabled: 1
+    path: Assets/Scenes/JupiterLearning.unity
+    guid: b63370f5c060e4e02a576909cbe96695
+  - enabled: 1
+    path: Assets/Scenes/EarthLearning.unity
+    guid: d96ce0f4f972c4b44982f8f6c3a801bf
+  - enabled: 1
+    path: Assets/Scenes/VenusLearning.unity
+    guid: 5f1a35e32a04649eabb63e1751093823
+  - enabled: 1
+    path: Assets/Scenes/PlanetsClassification.unity
+    guid: 290a9c4bed4ee478494b21e797a79c84
+  - enabled: 1
+    path: Assets/Scenes/PineappleClass2.unity
+    guid: 8acd4eda9737a4ce99aa12ca57860a4a
+  - enabled: 1
+    path: Assets/Scenes/BananaClass2.unity
+    guid: 0be038b3cf752449fa8b4453ab111def
+  - enabled: 1
+    path: Assets/Scenes/GrapesClass2.unity
+    guid: 8eadd7c24bfe149b7bfd18527495f3c8
+  - enabled: 1
+    path: Assets/Scenes/OrangeClass2.unity
+    guid: 051d5849416d448be9fb40f520cf0342
+  - enabled: 1
+    path: Assets/Scenes/PearClass2.unity
+    guid: 72303968c1bd249839f53f5d9bf537c4
+  - enabled: 1
+    path: Assets/Scenes/AppleClass2.unity
+    guid: f516151296f55441da2e0f56b0f3b071
+  - enabled: 1
+    path: Assets/Scenes/CategoriesPracticeLevel2.unity
+    guid: 32ac4269a2f004d039b01500361ac359
+  - enabled: 1
+    path: Assets/Scenes/Levels.unity
+    guid: 5e212587ee92e4e919ed6cbf8d8517db
+  - enabled: 1
+    path: Assets/Scenes/PlutoLearning.unity
+    guid: 03e976374f1104ae396e6f716713abda
+  - enabled: 1
+    path: Assets/Scenes/CarReinforce3.unity
+    guid: 4c6dcdf5ea5e24dc6b00e3705232f2f4
+  - enabled: 1
+    path: Assets/Scenes/CarReinforce1.unity
+    guid: 669b42680b2a14228ab4c485cf6a646f
+  - enabled: 1
+    path: Assets/Scenes/CarReinforce2.unity
+    guid: ad02d54338adf4bdfa8041052b212a03
+  - enabled: 1
+    path: Assets/Scenes/SpawnPrefabsOnPlane.unity
+    guid: 31770ff3c8a95483c92c773232077cf9
+  - enabled: 1
+    path: Assets/Scenes/HelicopterLearning.unity
+    guid: aa02096000cda475fb948222a98cfabc
+  - enabled: 1
+    path: Assets/Scenes/BikeLearning.unity
+    guid: d3d4f57cf08364babb8b6713cfa36cb7
+  - enabled: 1
+    path: Assets/Scenes/SupercarLearning.unity
+    guid: ef71c3ac01af1430a8b662c093d56a6b
+  - enabled: 1
+    path: Assets/Scenes/BoatLearning.unity
+    guid: 85ef66c1c41c746609fad3a4596c1e8a
+  - enabled: 1
+    path: Assets/Scenes/GarbagetruckLearning.unity
+    guid: 6e19c8e4562724a308f244656811324e
+  - enabled: 1
+    path: Assets/Scenes/PolicecarLearning.unity
+    guid: a550faea88dcf48b096d57b648768e6f
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 7defbf43cbb4643c8a70e8cedbc61bd1,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}

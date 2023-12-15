@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5099288584958111533
+  m_GuidHigh: 6663831812138738585
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5431860441762909865
+      m_GuidHigh: 11053279220543179392
+    m_SerializedTextureGuid:
+      m_GuidLow: 1475629035790210062
+      m_GuidHigh: 3512781015956776265
+    m_Size: {x: 0.66, y: 0.80025005}
+    m_SpecifySize: 1
+    m_Name: Bear
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4636281349311031473
+      m_GuidHigh: 15389856664796492185
+    m_SerializedTextureGuid:
+      m_GuidLow: 1490557418627278049
+      m_GuidHigh: 16472167715756506440
+    m_Size: {x: 0.66, y: 0.80025005}
+    m_SpecifySize: 1
+    m_Name: Camel
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4974399616194750856
+      m_GuidHigh: 9648064643643603636
+    m_SerializedTextureGuid:
+      m_GuidLow: 14186056566725670399
+      m_GuidHigh: 14186202448742456938
+    m_Size: {x: 0.55, y: 0.666875}
+    m_SpecifySize: 1
+    m_Name: Crocodile
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5441939971100371976
+      m_GuidHigh: 7808209510078781864
+    m_SerializedTextureGuid:
+      m_GuidLow: 1504032592106398740
+      m_GuidHigh: 13086976133832505547
+    m_Size: {x: 0.66, y: 0.79887503}
+    m_SpecifySize: 1
+    m_Name: Penguin
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5298579667319647216
+      m_GuidHigh: 6772142508857392043
+    m_SerializedTextureGuid:
+      m_GuidLow: 11822805143391968369
+      m_GuidHigh: 5634636851235196553
+    m_Size: {x: 0.55, y: 0.666875}
+    m_SpecifySize: 1
+    m_Name: Rhino
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5346811367342442692
+      m_GuidHigh: 2793892298359478698
+    m_SerializedTextureGuid:
+      m_GuidLow: 1447953065142935341
+      m_GuidHigh: 2850943370282173112
+    m_Size: {x: 0.55, y: 0.666875}
+    m_SpecifySize: 1
+    m_Name: Tiger
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5368611772043413830
+      m_GuidHigh: 6958466743372223420
+    m_SerializedTextureGuid:
+      m_GuidLow: 16453962951016299888
+      m_GuidHigh: 13746194428167219000
+    m_Size: {x: 0.55, y: 0.666875}
+    m_SpecifySize: 1
+    m_Name: Wolf
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5435386258847871503
+      m_GuidHigh: 15738836318050305712
+    m_SerializedTextureGuid:
+      m_GuidLow: 14154409755101324405
+      m_GuidHigh: 1276921117139043097
+    m_Size: {x: 0.55, y: 0.666875}
+    m_SpecifySize: 1
+    m_Name: Zebra
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5430158116325511657
+      m_GuidHigh: 15401590602763626411
+    m_SerializedTextureGuid:
+      m_GuidLow: 6065247978861060574
+      m_GuidHigh: 4648868609129311563
+    m_Size: {x: 0.55, y: 0.666875}
+    m_SpecifySize: 1
+    m_Name: Broccoli
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5367346739976538105
+      m_GuidHigh: 11651399952245485451
+    m_SerializedTextureGuid:
+      m_GuidLow: 11865821190373101719
+      m_GuidHigh: 736334278508838728
+    m_Size: {x: 0.55, y: 0.666875}
+    m_SpecifySize: 1
+    m_Name: Grapes
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4879832008180986041
+      m_GuidHigh: 15155595617114690203
+    m_SerializedTextureGuid:
+      m_GuidLow: 9521120695965037683
+      m_GuidHigh: 10417242826956312392
+    m_Size: {x: 0.55, y: 0.666875}
+    m_SpecifySize: 1
+    m_Name: Pineapple
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5270147594248595358
+      m_GuidHigh: 4569323814929096114
+    m_SerializedTextureGuid:
+      m_GuidLow: 13015076482366394268
+      m_GuidHigh: 18116589758698552779
+    m_Size: {x: 0.55, y: 0.666875}
+    m_SpecifySize: 1
+    m_Name: Sandwich
+    m_Texture: {fileID: 0}
